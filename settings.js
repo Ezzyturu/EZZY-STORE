@@ -26,24 +26,24 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "EZZY STORE" //namabot kalian
-global.ownername= "ᴹᴿ᭄ EZZY STORE ×፝֟͜×" //nama kalian
+global.botname = "EZZY CYABER " //namabot kalian
+global.ownername= "ᴹᴿ᭄ EZZY CYABER ×፝֟͜×" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
 global.myweb2 = "" //bebas
 global.email = "Hendrastore@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6282141809800'] //premium user
-global.owner = ["6282141809800","6282141809800"] //ganti agar fitur owner bisa di gunakan
+global.premium = ['6281336297550'] //premium user
+global.owner = ["6281336297550","6281336297550"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6282141809800" // nomor wa kalian
-global.ownernomerr = "+6282141809800" //nmr wa kalian
+global.ownernomerr = "+6281336297550" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© EZZY-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh EZYY STORE' //sticker wm ganti nama kalian
+global.packname = '© EZZY CYABER-Mdོ' //sticker wm ubah
+global.author = 'Di Buat Oleh EZZY CYABER' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
