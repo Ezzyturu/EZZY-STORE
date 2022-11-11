@@ -26,7 +26,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "EZZY GANTENG " //namabot kalian
+global.botname = "BOT EZZY STORE " //namabot kalian
 global.ownername= "ᴹᴿ᭄ EZZY GANTENG ×፝֟͜×" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
@@ -42,8 +42,8 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© EZZY GANTENG-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh EZZY GANTENG' //sticker wm ganti nama kalian
+global.packname = '© EZZY STORE-Mdོ' //sticker wm ubah
+global.author = 'Di Buat Oleh EZZY STORE' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
